@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Dunwu
-subtitle: 大道至简，知易行难
+title: Totoro
+subtitle: 人性本善
 author: Totoro
 description: "Totoro's Blog"
 language: zh-CN
@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://dunwu.github.io/blog
+url: https://github.com/chenglongyuan/blog
 root: /blog/
 #permalink: :year/:month/:day/:title/
 permalink: :title/
