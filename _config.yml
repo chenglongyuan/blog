@@ -5,8 +5,8 @@
 # Site
 title: Dunwu
 subtitle: 大道至简，知易行难
-author: Zhang Peng
-description: "Dunwu's Blog"
+author: Totoro
+description: "Totoro's Blog"
 language: zh-CN
 keywords:
 timezone:
@@ -123,7 +123,7 @@ markdown_it_plus:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:dunwu/blog.git
+  repo: git@github.com:chenglongyuan/blog.git
   branch: gh-pages
   message: Update blog.
 
